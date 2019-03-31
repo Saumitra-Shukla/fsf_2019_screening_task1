@@ -33,7 +33,7 @@ ALLOWED_HOSTS = [ '*' ]
 
 INSTALLED_APPS = [
     'tasks.apps.tasksConfig',
-    
+    'advanced_filters',
     'django_admin_listfilter_dropdown',
     
     'django.contrib.admin',
