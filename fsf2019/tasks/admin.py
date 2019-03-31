@@ -1,5 +1,5 @@
 from adminfilters.multiselect import UnionFieldListFilter
-# from advanced_filters.admin import AdminAdvancedFiltersMixin
+from advanced_filters.admin import AdminAdvancedFiltersMixin
 from django.contrib import admin
 from django.db import models
 from django.forms import Textarea
